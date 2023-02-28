@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "IntegralCF";
+  src: url(../fonts/Integral-CF/IntegralCF-Regular.woff2) format("woff2");
+  font-style: normal;
+  font-weight: 400;
+}
+
+body {
+  font-family: "Poppins", "sans-serif";
+}
