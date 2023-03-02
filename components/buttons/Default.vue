@@ -9,9 +9,10 @@ export default defineComponent({
 </script>
 
 <template>
-  <a
+  <nuxt-link
     class="font-integralCF text-xs text-center py-[14px] px-[26px] rounded-lg"
-    :href="href"
-    >{{ text }}
-  </a>
+    :to="href"
+  >
+    {{ text }}
+  </nuxt-link>
 </template>

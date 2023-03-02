@@ -5,20 +5,17 @@
     >
       Déjà plus de <span class="text-purple block">250 collaborations</span>
     </h1>
-    <img class="absolute top-0 left-0" src="~/assets/images/collab1.png" />
-    <img
-      class="absolute bottom-0 left-[8%]"
-      src="~/assets/images/collab2.png"
-    />
-    <img class="absolute top-14 left-[40%]" src="~/assets/images/collab3.png" />
+    <img class="absolute top-0 left-0" src="/assets/images/collab1.png" />
+    <img class="absolute bottom-0 left-[8%]" src="/assets/images/collab2.png" />
+    <img class="absolute top-14 left-[40%]" src="/assets/images/collab3.png" />
     <img
       class="absolute bottom-0 left-[45%]"
-      src="~/assets/images/collab4.png"
+      src="/assets/images/collab4.png"
     />
-    <img class="absolute top-0 right-[6%]" src="~/assets/images/collab5.png" />
+    <img class="absolute top-0 right-[6%]" src="/assets/images/collab5.png" />
     <img
       class="absolute bottom-0 right-[4%]"
-      src="~/assets/images/collab6.png"
+      src="/assets/images/collab6.png"
     />
   </div>
 </template>

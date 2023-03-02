@@ -1,6 +1,6 @@
 <template>
   <div class="bg-black py-[106px] flex items-center justify-center">
-    <img src="~/assets/images/influencer2.png" />
+    <img src="/assets/images/influencer2.png" />
     <div
       class="bg-white w-[526px] h-[355px] p-12 ml-[-100px] flex flex-col justify-between"
     >

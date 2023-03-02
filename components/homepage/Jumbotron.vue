@@ -20,6 +20,6 @@
         />
       </div>
     </div>
-    <img src="~/assets/images/influencer.png" />
+    <img src="/assets/images/influencer.png" />
   </div>
 </template>

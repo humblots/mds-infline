@@ -1,6 +1,6 @@
 <template>
   <div class="flex justify-center items-center pb-36">
-    <img class="mr-44 mt-[-80px]" src="~/assets/images/blur-influencer.png" />
+    <img class="mr-44 mt-[-80px]" src="/assets/images/blur-influencer.png" />
     <div class="flex flex-col w-[496px]">
       <h2 class="font-extrabold text-[32px] leading-[48px] mb-10">
         Une relation
