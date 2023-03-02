@@ -22,17 +22,17 @@ export default {
         {
           publishedAt: "4 mars 2022",
           title: "Trouver l’influenceur parfait pour votre marque",
-          src: "/_nuxt/assets/images/influencer-sm.png",
+          src: "/assets/images/influencer-sm.png",
         },
         {
           publishedAt: "7 mars 2022",
           title: "50 nouvelles influenceuses rejoigent la plateforme",
-          src: "/_nuxt/assets/images/influencer.png",
+          src: "/assets/images/influencer.png",
         },
         {
           publishedAt: "1 juin 2022",
           title: "Instagram investit 100 millions d’euros dans Infline",
-          src: "/_nuxt/assets/images/influencer-sm.png",
+          src: "/assets/images/influencer-sm.png",
         },
       ] as News[],
     };
