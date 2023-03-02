@@ -1,4 +1,5 @@
 <template>
+  <HomepageNavbar />
   <div>
     <HomepageJumbotron />
     <HomepageBrandSection />
