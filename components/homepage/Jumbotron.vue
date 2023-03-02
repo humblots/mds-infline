@@ -9,12 +9,12 @@
       </h1>
       <div class="flex gap-[22px] mt-[50px]">
         <ButtonsDefault
-          class="w-56 bg-white"
-          text="Je suis un influenceur"
+          class="w-[200px] bg-white"
+          text="Je suis influenceur"
           href="#"
         />
         <ButtonsDefault
-          class="bg-purple text-white w-56"
+          class="w-[200px] bg-purple text-white"
           text="Je suis une marque"
           href="#"
         />
