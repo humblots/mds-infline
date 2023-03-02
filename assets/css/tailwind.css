@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;800&display=swap");
 
 @tailwind base;
 @tailwind components;
@@ -6,11 +6,16 @@
 
 @font-face {
   font-family: "IntegralCF";
-  src: url(../fonts/Integral-CF/IntegralCF-Regular.woff2) format("woff2");
+  src: url(../fonts/Integral-CF/IntegralCF-DemiBold.woff2) format("woff2");
   font-style: normal;
-  font-weight: 400;
+  font-weight: 600;
 }
 
 body {
   font-family: "Poppins", "sans-serif";
+}
+
+.outlined {
+  text-shadow: -1px -1px 0 #b188ea, 1px -1px 0 #b188ea, -1px 1px 0 #b188ea,
+    1px 1px 0 #b188ea;
 }

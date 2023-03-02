@@ -1,11 +1,8 @@
 <template>
-  <div class="min-h-screen">
+  <main class="min-h-screen">
     <NuxtLayout>
+      <Navbar />
       <NuxtPage />
     </NuxtLayout>
-  </div>
+  </main>
 </template>
-
-<script setup lang="ts">
-import "./assets/css/tailwind.css";
-</script>
