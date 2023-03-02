@@ -14,3 +14,8 @@
 body {
   font-family: "Poppins", "sans-serif";
 }
+
+.outlined {
+  text-shadow: -1px -1px 0 #b188ea, 1px -1px 0 #b188ea, -1px 1px 0 #b188ea,
+    1px 1px 0 #b188ea;
+}
